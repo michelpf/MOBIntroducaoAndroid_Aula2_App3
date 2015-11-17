@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MOBIntroducaoAndroid_Aula2_App3</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtZero">0</string>
+    <string name="btnMais">+</string>
+    <string name="btnMenos">-</string>
+    <string name="appSobre">Aplicativo desenvolvido por José da XYZ System.</string>
+    <string name="btnOK">OK</string>
+    <string name="menuSobre">Sobre</string>
+    <string name="title_activity_activity_sobre">ActivitySobre</string>
+
+</resources>
